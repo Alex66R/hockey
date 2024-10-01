@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles/styles.css">
     <title>Mighty Ducks Hockey League - About</title>
+    <title>Mighty Ducks Hockey League - Home</title>
 </head>
 <body class="flex orange">
     <header class="flex">
@@ -32,6 +33,24 @@
         <article>
             <h3>General Information</h3>
             <p>The Mighty Ducks Hockey League was established in 1996 to provide athletesresiding in Chicago'snorthside neighborhoods an environment in which to learn and play hockey. To be a member of MDHL, you must be between the ages of 4 -12 and reside in a Chicago northside neighborhood. MDHL is ran by a small fullt·ime staff, and relies on the generous volunteer time of parents and previousleague members.</p>
+            <a href="#" class="flex aCenter jCenter orangeTr">HOME</a>
+            <a href="about.html" class="flex aCenter jCenter orangeTr">ABOUT MDHL</a>
+            <a href="contact.html" class="flex aCenter jCenter orangeTr">CONTACT</a>
+        </nav>
+        <h2 class="flex aCenter jCenter totalWidth subtitle">UPCOMING EVENTS</h2>
+    </header>
+    <main>
+        <article>
+            <h3>August 4</h3>
+            <p>MDHL Fundraiser</p>
+        </article>
+        <article>
+            <h3>August 16</h3>
+            <p>Season Kick·off: Meet the Tearns</p>
+        </article>
+        <article>
+            <h3>September 1</h3>
+            <p>First Game of the Season (Check Game Schedule for details)</p>
         </article>
     </main>
     <footer class="totalWidth flex jCenter">
